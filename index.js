@@ -1,10 +1,5 @@
 import { demoPromise } from "./import.js"
 
-const east = "dong";
-const north = "bac";
-const west = "tay";
-const south = "nam";
-const people = ['Binh', '24']
 const admin = { name: "Nam Anh", age: "24" }
 const staff = { name: "Van Anh", age: "23" }
 var facebook = "app";
