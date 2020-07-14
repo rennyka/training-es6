@@ -4,7 +4,7 @@ const admin = { name: "Nam Anh", age: "24" }
 const staff = { name: "Van Anh", age: "23" }
 var facebook = "app";
 
-console.log(demoPromise());
+console.log(demoPromise(), facebook);
 
 let promise = new Promise((resolve, reject) => {
     setTimeout(
